@@ -1,0 +1,165 @@
+/***************TAG Selectors***************/
+
+
+body {
+    margin: 0;
+    text-align: center;
+    color: #40514E;
+}
+
+h1 {
+    font-size: 85px;
+    line-height: 2;
+    color: #FA7070;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Petit Formal Script', cursive;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #e04747;
+    font-weight: normal;
+    font-family: 'Barlow', sans-serif;
+}
+
+h3 {
+    color: #FA7070;
+    font-family: 'Barlow', sans-serif;
+}
+
+p {
+    font-family: 'Barlow', sans-serif;
+    line-height: 2;
+    
+    
+}
+
+hr {
+    border-color: #b7bdbd;
+    border-style: dotted none none none;
+    border-width: 6px;
+    height: 0;
+    width: 50px;
+    margin: 50px auto 50px auto;
+}
+
+/***************Class Selectors***************/
+
+.btn {
+    background: #e85d72;
+    background-image: -webkit-linear-gradient(top, #e85d72, #c7445a);
+    background-image: -moz-linear-gradient(top, #e85d72, #c7445a);
+    background-image: -ms-linear-gradient(top, #e85d72, #c7445a);
+    background-image: -o-linear-gradient(top, #e85d72, #c7445a);
+    background-image: linear-gradient(to bottom, #e85d72, #c7445a);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Barlow', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    margin-top: 100px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #c7445a;
+    background-image: -webkit-linear-gradient(top, #c7445a, #e85d72);
+    background-image: -moz-linear-gradient(top, #c7445a, #e85d72);
+    background-image: -ms-linear-gradient(top, #c7445a, #e85d72);
+    background-image: -o-linear-gradient(top, #c7445a, #e85d72);
+    background-image: linear-gradient(to bottom, #c7445a, #e85d72);
+    text-decoration: none;
+  }
+  
+  .intro-text {
+    width: 35%;
+    margin: 0 auto;
+  }
+
+.topContainer {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.middleContainer {
+
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 50px 0;
+}
+
+.dribble-icon {
+    height: 50px;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 100px;
+    right: 30%;
+    height: 90px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 30%;
+    height: 90px;
+}
+
+.h2-skills {
+    font-size: 2rem;
+    color: #e04747;
+    font-weight: normal;
+    font-family: 'Barlow', sans-serif;
+    margin-top: 100px;
+}
+
+.linkedin-icon {
+    width: 60px;
+    height: 60px;
+    padding-right: 20px;
+}
+
+.profile-img {
+    margin-top: 50px;
+}
+
+
+.skills-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skills2-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.trademark-text {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.udemy-icon {
+    height: 50px;
+    padding-left: 20px;
+}
+
+
+/***************ID Selectors***************/
